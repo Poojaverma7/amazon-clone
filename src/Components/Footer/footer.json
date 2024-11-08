@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Get to Know Us",
+        "subTitles": ["About Amazon", "Careers", "Press Releases", "Amazon Science"]
+    },
+    {
+        "title": "Connect with Us",
+        "subTitles": ["Facebook", "Twitter", "Instagram"]
+    },
+    {
+        "title": "Make Money with Us",
+        "subTitles": ["Sell on Amazon", "Amazon Associates", "Advertise Your Products", "Self-Publish with Us"]
+    },
+    {
+        "title": "Amazon Payment Products",
+        "subTitles": ["Amazon Business Card", "Shop with Points", "Reload Your Balance", "Amazon Currency Converter"]
+    }
+]
